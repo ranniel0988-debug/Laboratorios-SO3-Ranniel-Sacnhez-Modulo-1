@@ -105,5 +105,15 @@ cd ..
 rm -r materia
 
 
+#gestion de permisos linux
+4 = Lectura (r)
+
+2 = Escritura (w)
+
+1 = Ejecución (x)
+
+0 = Sin permisos
+
+
 
 
